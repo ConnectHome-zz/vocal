@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$de/d82/classrapidxml_1_1xml__node.html#a0218147d13e41d5fa60ced4e7a7e9726" title="Removes all child nodes (but not attributes)." alt="" coords="113,5,361,35"/>
+<area shape="rect" id="node13" href="$de/d82/classrapidxml_1_1xml__node.html#a59e6ad4cfd5e8096c052e71d79561eda" title="Removes all attributes of node." alt="" coords="104,59,371,88"/>
+<area shape="rect" id="node5" href="$de/d82/classrapidxml_1_1xml__node.html#a7823e36687669e59c2afdf66334ef35a" title="rapidxml::xml_node::first_node" alt="" coords="428,5,628,35"/>
+<area shape="rect" id="node7" href="$d4/d48/classrapidxml_1_1xml__base.html#a622eade29fdf7806d3ef93ac4d90e707" title="rapidxml::xml_base::name" alt="" coords="703,5,876,35"/>
+<area shape="rect" id="node11" href="$d4/d48/classrapidxml_1_1xml__base.html#a0dae694c8f7e4d89f1003e2f3a15a43c" title="rapidxml::xml_base::name_size" alt="" coords="687,59,892,88"/>
+<area shape="rect" id="node9" href="$d4/d48/classrapidxml_1_1xml__base.html#a641d0b8df8e0c3c7e0db06ced0e0749f" title="rapidxml::xml_base::nullstr" alt="" coords="941,5,1120,35"/>
+<area shape="rect" id="node15" href="$de/d82/classrapidxml_1_1xml__node.html#a5810a09f82f8d53efbe9456286dcec83" title="rapidxml::xml_node::first_attribute" alt="" coords="419,59,637,88"/>
+</map>

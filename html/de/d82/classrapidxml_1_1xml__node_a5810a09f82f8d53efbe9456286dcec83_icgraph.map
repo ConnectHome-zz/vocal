@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d46/classrapidxml_1_1memory__pool.html#a95c49fcb056e9103ec906a59e3e01d76" title="rapidxml::memory_pool::clone_node" alt="" coords="153,5,383,35"/>
+<area shape="rect" id="node5" href="$de/d82/classrapidxml_1_1xml__node.html#af6dffa513da74cc0be71a7ba84f8265e" title="prepend_attribute" alt="" coords="207,59,329,88"/>
+<area shape="rect" id="node9" href="$de/d82/classrapidxml_1_1xml__node.html#a8fbd4f5ef7169d493da9f8d87ac04b77" title="append_attribute" alt="" coords="209,112,327,141"/>
+<area shape="rect" id="node23" href="$de/d82/classrapidxml_1_1xml__node.html#a4eea4a7f6cb484ca9944f7eafe6e1843" title="remove_first_attribute" alt="" coords="195,165,341,195"/>
+<area shape="rect" id="node25" href="$de/d82/classrapidxml_1_1xml__node.html#ac75154db2e768c0e5b541fc8cd0775ab" title="remove_attribute" alt="" coords="476,219,593,248"/>
+<area shape="rect" id="node27" href="$de/d82/classrapidxml_1_1xml__node.html#a37d87c4d5d89fa0cf05b72ee8d4cba3b" title="remove_last_attribute" alt="" coords="195,269,341,299"/>
+<area shape="rect" id="node31" href="$de/d82/classrapidxml_1_1xml__node.html#a59e6ad4cfd5e8096c052e71d79561eda" title="Removes all attributes of node." alt="" coords="195,323,341,352"/>
+<area shape="rect" id="node37" href="$d7/d8a/namespacerapidxml.html#a6255d15e5d8ad12ebcd7c60da51c97e2" title="rapidxml::count_attributes" alt="" coords="183,376,353,405"/>
+<area shape="rect" id="node7" href="$de/d82/classrapidxml_1_1xml__node.html#a070d5888b0557fe06a5b24961de1b988" title="insert_attribute" alt="" coords="481,59,588,88"/>
+<area shape="rect" id="node11" href="$df/dfb/create_xml_8h.html#a8f955dfe53353df4002ec5aa5641567e" title="createHeader" alt="" coords="485,112,584,141"/>
+<area shape="rect" id="node13" href="$df/dfb/create_xml_8h.html#af8003e041f559277e436857fd125509f" title="createNode" alt="" coords="491,165,579,195"/>
+<area shape="rect" id="node15" href="$df/dfb/create_xml_8h.html#a420401b04c5013e926412efc0bd0e966" title="acreateGestureXml" alt="" coords="692,139,825,168"/>
+<area shape="rect" id="node19" href="$df/dfb/create_xml_8h.html#ac53a4ea3055508e53da214029c6a9f1e" title="createInitGestureXml" alt="" coords="687,192,831,221"/>
+<area shape="rect" id="node17" href="$df/d0a/main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="880,165,931,195"/>
+<area shape="rect" id="node33" href="$db/d68/classrapidxml_1_1xml__document.html#aa280fd704731128b4556b41c1e9182b8" title="rapidxml::xml_document::parse" alt="" coords="433,297,636,327"/>
+<area shape="rect" id="node35" href="$db/d68/classrapidxml_1_1xml__document.html#ac8bb3912a3ce86b15842e79d0b421204" title="rapidxml::xml_document::clear" alt="" coords="435,351,635,380"/>
+</map>

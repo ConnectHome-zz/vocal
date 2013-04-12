@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d9/db7/classrapidxml_1_1xml__attribute.html#a77aea7d8d996ba4f6bd61cc478a4e72d" title="rapidxml::xml_attribute::document" alt="" coords="124,5,343,35"/>
+<area shape="rect" id="node5" href="$de/d82/classrapidxml_1_1xml__node.html#a77aea7d8d996ba4f6bd61cc478a4e72d" title="rapidxml::xml_node::document" alt="" coords="133,59,333,88"/>
+<area shape="rect" id="node7" href="$de/d82/classrapidxml_1_1xml__node.html#a0c39df6617e709eb2fba11300dea63f2" title="rapidxml::xml_node::prepend_node" alt="" coords="121,163,345,192"/>
+<area shape="rect" id="node9" href="$de/d82/classrapidxml_1_1xml__node.html#a780972a57fc447250ab47cc8f421b65e" title="rapidxml::xml_node::insert_node" alt="" coords="412,61,623,91"/>
+<area shape="rect" id="node11" href="$de/d82/classrapidxml_1_1xml__node.html#a86de2e22276826089b7baed2599f8dee" title="rapidxml::xml_node::append_node" alt="" coords="124,216,343,245"/>
+<area shape="rect" id="node24" href="$de/d82/classrapidxml_1_1xml__node.html#a9316463a2201631e7e2062b17729f9cd" title="Removes specified child from the node." alt="" coords="123,427,344,456"/>
+<area shape="rect" id="node26" href="$de/d82/classrapidxml_1_1xml__node.html#af6dffa513da74cc0be71a7ba84f8265e" title="rapidxml::xml_node::prepend_attribute" alt="" coords="112,373,355,403"/>
+<area shape="rect" id="node28" href="$de/d82/classrapidxml_1_1xml__node.html#a070d5888b0557fe06a5b24961de1b988" title="rapidxml::xml_node::insert_attribute" alt="" coords="403,376,632,405"/>
+<area shape="rect" id="node30" href="$de/d82/classrapidxml_1_1xml__node.html#a8fbd4f5ef7169d493da9f8d87ac04b77" title="rapidxml::xml_node::append_attribute" alt="" coords="115,269,352,299"/>
+<area shape="rect" id="node40" href="$de/d82/classrapidxml_1_1xml__node.html#ac75154db2e768c0e5b541fc8cd0775ab" title="rapidxml::xml_node::remove_attribute" alt="" coords="113,480,353,509"/>
+<area shape="rect" id="node13" href="$df/dfb/create_xml_8h.html#a420401b04c5013e926412efc0bd0e966" title="acreateGestureXml" alt="" coords="687,191,820,220"/>
+<area shape="rect" id="node17" href="$df/dfb/create_xml_8h.html#ac53a4ea3055508e53da214029c6a9f1e" title="createInitGestureXml" alt="" coords="681,244,825,273"/>
+<area shape="rect" id="node21" href="$db/d68/classrapidxml_1_1xml__document.html#aa280fd704731128b4556b41c1e9182b8" title="rapidxml::xml_document::parse" alt="" coords="416,165,619,195"/>
+<area shape="rect" id="node15" href="$df/d0a/main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="875,217,925,247"/>
+<area shape="rect" id="node32" href="$df/dfb/create_xml_8h.html#a8f955dfe53353df4002ec5aa5641567e" title="createHeader" alt="" coords="468,323,567,352"/>
+<area shape="rect" id="node34" href="$df/dfb/create_xml_8h.html#af8003e041f559277e436857fd125509f" title="createNode" alt="" coords="473,269,561,299"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d46/classrapidxml_1_1memory__pool.html#a95c49fcb056e9103ec906a59e3e01d76" title="rapidxml::memory_pool::clone_node" alt="" coords="135,5,364,35"/>
+<area shape="rect" id="node5" href="$de/d82/classrapidxml_1_1xml__node.html#a0c39df6617e709eb2fba11300dea63f2" title="prepend_node" alt="" coords="199,59,300,88"/>
+<area shape="rect" id="node9" href="$de/d82/classrapidxml_1_1xml__node.html#a86de2e22276826089b7baed2599f8dee" title="append_node" alt="" coords="200,112,299,141"/>
+<area shape="rect" id="node21" href="$de/d82/classrapidxml_1_1xml__node.html#a9a31d861e1bddc710839c551a5d2b3a4" title="remove_first_node" alt="" coords="185,219,313,248"/>
+<area shape="rect" id="node23" href="$de/d82/classrapidxml_1_1xml__node.html#a9316463a2201631e7e2062b17729f9cd" title="Removes specified child from the node." alt="" coords="467,272,565,301"/>
+<area shape="rect" id="node25" href="$de/d82/classrapidxml_1_1xml__node.html#a87addf2bc127ee31aa4b5295d3c9b530" title="remove_last_node" alt="" coords="185,323,313,352"/>
+<area shape="rect" id="node29" href="$de/d82/classrapidxml_1_1xml__node.html#a0218147d13e41d5fa60ced4e7a7e9726" title="Removes all child nodes (but not attributes)." alt="" coords="187,165,312,195"/>
+<area shape="rect" id="node34" href="$d7/d8a/namespacerapidxml.html#a21c1cf2814019385e6b8d09e75af1d34" title="rapidxml::count_children" alt="" coords="168,376,331,405"/>
+<area shape="rect" id="node7" href="$de/d82/classrapidxml_1_1xml__node.html#a780972a57fc447250ab47cc8f421b65e" title="insert_node" alt="" coords="472,5,560,35"/>
+<area shape="rect" id="node11" href="$df/dfb/create_xml_8h.html#a420401b04c5013e926412efc0bd0e966" title="acreateGestureXml" alt="" coords="449,59,583,88"/>
+<area shape="rect" id="node15" href="$df/dfb/create_xml_8h.html#ac53a4ea3055508e53da214029c6a9f1e" title="createInitGestureXml" alt="" coords="444,112,588,141"/>
+<area shape="rect" id="node19" href="$db/d68/classrapidxml_1_1xml__document.html#aa280fd704731128b4556b41c1e9182b8" title="rapidxml::xml_document::parse" alt="" coords="415,165,617,195"/>
+<area shape="rect" id="node13" href="$df/d0a/main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="667,85,717,115"/>
+<area shape="rect" id="node32" href="$db/d68/classrapidxml_1_1xml__document.html#ac8bb3912a3ce86b15842e79d0b421204" title="rapidxml::xml_document::clear" alt="" coords="416,219,616,248"/>
+</map>

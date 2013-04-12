@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$df/dc1/network__module_8cpp.html#a6a2a00472b5a2f78e00f70a71ac64e05" title="init_connection_module" alt="" coords="107,57,264,87"/>
+<area shape="rect" id="node5" href="$df/dc1/network__module_8cpp.html#a0a0661169ca98432ecb57381cb317b12" title="write_server" alt="" coords="139,111,232,140"/>
+<area shape="rect" id="node7" href="$da/d84/create_xml_8c.html#ac53a4ea3055508e53da214029c6a9f1e" title="createInitGestureXml" alt="" coords="113,217,257,247"/>
+<area shape="rect" id="node47" href="$df/d0a/main_8cpp.html#ae6cf6684e9dd5ee9b52f7c2533e74821" title="connect_signals" alt="" coords="128,271,243,300"/>
+<area shape="rect" id="node55" href="$da/d84/create_xml_8c.html#a420401b04c5013e926412efc0bd0e966" title="acreateGestureXml" alt="" coords="119,164,252,193"/>
+<area shape="rect" id="node60" href="$df/dc1/network__module_8cpp.html#a3ce6eb1f956c64de2aefb79376df7a2b" title="end_connection_module" alt="" coords="104,324,267,353"/>
+<area shape="rect" id="node9" href="$da/d84/create_xml_8c.html#af5381969f99d4194b006f6946c8f1d44" title="createNode" alt="" coords="335,112,423,141"/>
+<area shape="rect" id="node36" href="$de/d82/classrapidxml_1_1xml__node.html#a86de2e22276826089b7baed2599f8dee" title="rapidxml::xml_node::append_node" alt="" coords="513,267,732,296"/>
+<area shape="rect" id="node45" href="$d7/d8a/namespacerapidxml.html#a0fb0be6eba49fb2e2646d5a72a0dc355" title="rapidxml::print" alt="" coords="327,216,431,245"/>
+<area shape="rect" id="node11" href="$d1/d46/classrapidxml_1_1memory__pool.html#a750ba3c610b129ac057d817509d08f41" title="rapidxml::memory_pool::allocate_node" alt="" coords="500,53,745,83"/>
+<area shape="rect" id="node17" href="$d4/d48/classrapidxml_1_1xml__base.html#ac54fa4987fb503916a7b541eb15c9c7f" title="rapidxml::xml_base::value" alt="" coords="825,5,999,35"/>
+<area shape="rect" id="node20" href="$d1/d46/classrapidxml_1_1memory__pool.html#a69729185bc59b0875192d667c47b8859" title="rapidxml::memory_pool::allocate_string" alt="" coords="499,160,747,189"/>
+<area shape="rect" id="node23" href="$de/d82/classrapidxml_1_1xml__node.html#a8fbd4f5ef7169d493da9f8d87ac04b77" title="rapidxml::xml_node::append_attribute" alt="" coords="504,213,741,243"/>
+<area shape="rect" id="node32" href="$d1/d46/classrapidxml_1_1memory__pool.html#a462de142669e0ff649e8e615b82bf457" title="rapidxml::memory_pool::allocate_attribute" alt="" coords="491,107,755,136"/>
+<area shape="rect" id="node13" href="$d4/d48/classrapidxml_1_1xml__base.html#a622eade29fdf7806d3ef93ac4d90e707" title="rapidxml::xml_base::name" alt="" coords="1087,108,1260,137"/>
+<area shape="rect" id="node15" href="$d4/d48/classrapidxml_1_1xml__base.html#a641d0b8df8e0c3c7e0db06ced0e0749f" title="rapidxml::xml_base::nullstr" alt="" coords="1325,69,1504,99"/>
+<area shape="rect" id="node25" href="$d4/d48/classrapidxml_1_1xml__base.html#a798e8df7ea53ade4d9f0701017dce80e" title="rapidxml::xml_base::parent" alt="" coords="823,213,1001,243"/>
+<area shape="rect" id="node27" href="$de/d82/classrapidxml_1_1xml__node.html#a5810a09f82f8d53efbe9456286dcec83" title="rapidxml::xml_node::first_attribute" alt="" coords="803,160,1021,189"/>
+<area shape="rect" id="node30" href="$d4/d48/classrapidxml_1_1xml__base.html#a0dae694c8f7e4d89f1003e2f3a15a43c" title="rapidxml::xml_base::name_size" alt="" coords="1071,215,1276,244"/>
+<area shape="rect" id="node39" href="$de/d82/classrapidxml_1_1xml__node.html#a975e86937621ae4afe6a423219de30d0" title="rapidxml::xml_node::type" alt="" coords="828,320,996,349"/>
+<area shape="rect" id="node41" href="$de/d82/classrapidxml_1_1xml__node.html#a7823e36687669e59c2afdf66334ef35a" title="rapidxml::xml_node::first_node" alt="" coords="812,267,1012,296"/>
+<area shape="rect" id="node49" href="$df/d0a/main_8cpp.html#a49784a5b77943d407233539b692f2ca7" title="change_mic_state" alt="" coords="315,320,443,349"/>
+<area shape="rect" id="node51" href="$df/d0a/main_8cpp.html#a06cebcd4c0f8f3528dca8f189f0003f4" title="stop_mic_on_signal" alt="" coords="555,320,691,349"/>
+<area shape="rect" id="node53" href="$df/d0a/main_8cpp.html#ae3f9511f5e0665570bc85bd7a5f3671a" title="launch_mic" alt="" coords="579,373,667,403"/>
+</map>

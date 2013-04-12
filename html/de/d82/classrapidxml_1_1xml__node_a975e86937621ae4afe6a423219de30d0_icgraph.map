@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d1/d46/classrapidxml_1_1memory__pool.html#a95c49fcb056e9103ec906a59e3e01d76" title="rapidxml::memory_pool::clone_node" alt="" coords="103,5,332,35"/>
+<area shape="rect" id="node5" href="$de/d82/classrapidxml_1_1xml__node.html#a77aea7d8d996ba4f6bd61cc478a4e72d" title="document" alt="" coords="179,59,256,88"/>
+<area shape="rect" id="node7" href="$de/d82/classrapidxml_1_1xml__node.html#aa78759bfa429fa2ab6bc5fe617cfa3cf" title="type" alt="" coords="195,112,240,141"/>
+<area shape="rect" id="node9" href="$de/d82/classrapidxml_1_1xml__node.html#a0c39df6617e709eb2fba11300dea63f2" title="prepend_node" alt="" coords="167,165,268,195"/>
+<area shape="rect" id="node11" href="$de/d82/classrapidxml_1_1xml__node.html#a780972a57fc447250ab47cc8f421b65e" title="insert_node" alt="" coords="440,191,528,220"/>
+<area shape="rect" id="node13" href="$de/d82/classrapidxml_1_1xml__node.html#a86de2e22276826089b7baed2599f8dee" title="append_node" alt="" coords="168,269,267,299"/>
+<area shape="rect" id="node15" href="$df/dfb/create_xml_8h.html#a420401b04c5013e926412efc0bd0e966" title="acreateGestureXml" alt="" coords="417,244,551,273"/>
+<area shape="rect" id="node19" href="$df/dfb/create_xml_8h.html#ac53a4ea3055508e53da214029c6a9f1e" title="createInitGestureXml" alt="" coords="412,297,556,327"/>
+<area shape="rect" id="node23" href="$db/d68/classrapidxml_1_1xml__document.html#aa280fd704731128b4556b41c1e9182b8" title="rapidxml::xml_document::parse" alt="" coords="383,351,585,380"/>
+<area shape="rect" id="node17" href="$df/d0a/main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="635,271,685,300"/>
+</map>
